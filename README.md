@@ -66,3 +66,8 @@
 ## License
 
 MIT
+
+## Release
+
+- Current version: `v1.0.0`
+- Changelog: `CHANGELOG.md`
